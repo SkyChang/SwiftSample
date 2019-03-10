@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Operational'/>
+        <page name='Varable'/>
+        <page name='Collection'/>
+        <page name='Flow'/>
+        <page name='Enumeration'/>
+        <page name='Optional'/>
+        <page name='Func'/>
+        <page name='Another'/>
+    </pages>
+</playground>
