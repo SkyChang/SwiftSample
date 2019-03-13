@@ -9,5 +9,9 @@
         <page name='Optional'/>
         <page name='Func'/>
         <page name='Another'/>
+        <page name='Class'/>
+        <page name='ClassInherit'/>
+        <page name='Protocal'/>
+        <page name='Extension'/>
     </pages>
 </playground>
